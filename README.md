@@ -1,5 +1,5 @@
 <!--
-**Terroars/Terroars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kaisunoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&duration=4500&color=49F707&lines=Hi!+Nice+to+meet+you!;I'm+Ky+Espa%C3%B1o%2C+21+years+old.;A+1st+year+IT-Rex+Dino.)](https://git.io/typing-svg)
 
-I'm **Ky Españo** under the username of **Terroars**, I'm a 1st year Filipino **Bachelor of Science in Information Technology** college student. I like to learn new things on my own phase and hopefuly make a helpful impact on this industry in the Philippines.<br>
+I'm **Ky Españo** a.k.a. **Kaisunoo**, I'm a 2nd year Filipino **Bachelor of Science in Information Technology** college student. I like to learn new things on my own phase and hopefuly make a helpful impact on this industry in the Philippines.<br>
 
 ### How to reach me:	
-<img alt="Instagram" src="https://img.shields.io/badge/@er.roarr-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<img alt="Instagram" src="https://img.shields.io/badge/@kaisuno.o-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 <img alt="Gmail" src="https://img.shields.io/badge/ky.espano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 ### Current Status:
@@ -34,6 +34,6 @@ I'm **Ky Españo** under the username of **Terroars**, I'm a 1st year Filipino *
 -----
 Credits: [carlcastanas](https://github.com/carlcastanas) 💪
 
-Last Edited on: 04/23/2022
+Last Edited on: 05/08/2022
 
 ![Visitor Count](https://profile-counter.glitch.me/{er-roarr}/count.svg)
