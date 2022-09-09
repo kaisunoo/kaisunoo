@@ -33,7 +33,7 @@ I'm **Ky Españo**, a 2nd year **Bachelor of Science in Information Technology**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=kaisunoo" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=kaisunoo&bg_color=FF9D00FF" />
 
 -----
 Credits: [carlcastanas](https://github.com/carlcastanas) 💪
