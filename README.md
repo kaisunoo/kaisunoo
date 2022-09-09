@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <img src="https://c.tenor.com/VpDBCcqCP0IAAAAC/dinosaur-pixel-art.gif" width="50"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&color=B994E6&background=2B2D3D00&width=435&lines=I'm+Kaisunoo;Learner+of+a+Trade;Information+Technology+Student;1%CE%9EX0-%E2%84%93)](https://git.io/typing-svg)
+
 I'm **Ky Españo**, a 2nd year **Bachelor of Science in Information Technology** college student studying at Polytechnic State University of Bicol.<br>
 
 ### How to reach me:	
@@ -22,8 +23,6 @@ I'm **Ky Españo**, a 2nd year **Bachelor of Science in Information Technology**
 <a href="https://www.instagram.com/kaisuno.o/"> <img alt="Instagram" src="https://img.shields.io/badge/@kaisuno.o-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 ### Current Status:
-
-- 🌱 learning <strong>C, C++, Java, HTML, CSS, PHP.</strong>.
 - 🤔 Exploring <strong>GitHub</strong>...
 
 ### Tools I work upon : 🛠
