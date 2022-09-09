@@ -14,26 +14,33 @@ Here are some ideas to get you started:
 -->
 <img src="https://c.tenor.com/VpDBCcqCP0IAAAAC/dinosaur-pixel-art.gif" width="50"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&duration=4500&color=49F707&lines=Hi!+Nice+to+meet+you!;I'm+Ky+Espa%C3%B1o%2C+21+years+old.;A+1st+year+IT-Rex+Dino.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=6000&pause=1000&color=FF9D00&center=true&width=435&lines=I'm+Kaisunoo;Learner+of+a+Trade;Information+Technology+Student;1%CE%9EX0-%E2%84%93)](https://git.io/typing-svg)
 
-I'm **Ky Españo** a.k.a. **Kaisunoo**, I'm a 2nd year Filipino **Bachelor of Science in Information Technology** college student. I like to learn new things on my own phase and hopefuly make a helpful impact on this industry in the Philippines.<br>
+I'm **Ky Españo**, a 2nd year **Bachelor of Science in Information Technology** college student studying at Polytechnic State University of Bicol.<br>
 
 ### How to reach me:	
-<img alt="Instagram" src="https://img.shields.io/badge/@kaisuno.o-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-<img alt="Gmail" src="https://img.shields.io/badge/ky.espano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto: ky.espano@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/ky.espano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/kaisuno.o/"> <img alt="Instagram" src="https://img.shields.io/badge/@kaisuno.o-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 ### Current Status:
 
-- 🌱 learning <strong>HTML, CSS, JavaScript, C and C++ Language</strong>.
+- 🌱 learning <strong>C, C++, Java, HTML, CSS, PHP.</strong>.
 - 🤔 Exploring <strong>GitHub</strong>...
 
 ### Tools I work upon : 🛠
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
+<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>  
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 
 -----
 Credits: [carlcastanas](https://github.com/carlcastanas) 💪
 
-Last Edited on: 05/08/2022
+Last Edited on: 09/09/2022
 
 ![Visitor Count](https://profile-counter.glitch.me/{er-roarr}/count.svg)
