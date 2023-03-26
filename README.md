@@ -29,7 +29,6 @@ I'm **Ky Españo**, a 2nd year **Bachelor of Science in Information Technology**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&langs_count=8&theme=dracula&color=B994E6&bg_color=2B2D3D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
-Credits: [carlcastanas](https://github.com/carlcastanas) 💪
 
 Last Edited on: 03/26/2023
 
