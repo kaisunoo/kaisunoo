@@ -17,6 +17,10 @@ Hi! I'm **Kyla Caryl Españo**, a 2nd year **InfoTech** student studying at Poly
 
 ### How to reach me: 📫
 <a href="mailto: ky.espano@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/ky.espano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<a href="https://www.linkedin.com/kaisuno_o/"> <img alt="LinkedIn" src="https://img.shields.io/badge/@kaisuno_o-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
 <a href="https://www.twitter.com/kaisuno_o/"> <img alt="Twitter" src="https://img.shields.io/badge/@kaisuno_o-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 ### Current Status: 💭
