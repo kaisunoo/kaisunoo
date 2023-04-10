@@ -20,7 +20,7 @@ Hi! I'm **Ky Españo**, a 2nd year **InfoTech** student studying at Polytechnic 
 
 ### How to reach me:	
 <a href="mailto: ky.espano@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/ky.espano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.twitter.com/kaisuno_o/"> <img alt="Twitter" src="https://img.shields.io/badge/@kaisuno_o-%23E4405F.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.twitter.com/kaisuno_o/"> <img alt="Twitter" src="https://img.shields.io/badge/@kaisuno_o-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 ### Current Status:
 - 🤔 Exploring <strong>GitHub</strong>...
