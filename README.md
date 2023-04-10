@@ -19,14 +19,14 @@ Hi! I'm **Kyla Caryl Españo**, a 2nd year **InfoTech** student studying at Poly
 <a href="mailto: ky.espano@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/ky.espano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.twitter.com/kaisuno_o/"> <img alt="Twitter" src="https://img.shields.io/badge/@kaisuno_o-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-### Current Status:
+### Current Status: 💭
 - Exploring <strong>GitHub</strong>...
 - I'm currently learning HTML, CSS, PHP, JavaScript, C/C++, Java, React Native, MARIE Assembly Language, and SQL.
 - Working on <strong>Pasan</strong> 🖥️.
 - Working on <strong>Hora</strong> 📱.
 
-### Tools I work upon : 
+### Tools I work upon : 🚧
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&langs_count=8&theme=dracula&color=B994E6&bg_color=2B2D3D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Visits :
+### Visits : 🚪
 ![Visitor Count](https://profile-counter.glitch.me/{er-roarr}/count.svg)
