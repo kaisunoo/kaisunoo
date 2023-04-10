@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&color=009900&background=2B2D3D00&width=435&lines=Kaisunoo;Learner+of+a+Trade;Information+Technology+Student;1%CE%9EX0-%E2%84%93)](https://git.io/typing-svg)
 
-I'm **Ky Españo**, a 2nd year **Bachelor of Science in Information Technology** college student studying at Polytechnic State University of Bicol.<br>
+Hi! I'm **Ky Españo**, a 2nd year **InfoTech** student studying at Polytechnic State University of Bicol.<br>
 
 ### How to reach me:	
 <a href="mailto: ky.espano@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/ky.espano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/aero.oar/"> <img alt="Instagram" src="https://img.shields.io/badge/@aero.oar-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/aero.oar/"> <img alt="Instagram" src="https://img.shields.io/badge/@kaisuno_o-%23E4405F.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 ### Current Status:
 - 🤔 Exploring <strong>GitHub</strong>...
