@@ -22,8 +22,8 @@ Hi! I'm **Kyla Caryl Españo**, a 2nd year **InfoTech** student studying at Poly
 ### Current Status: 💭
 - Exploring <strong>GitHub</strong>...
 - I'm currently learning HTML, CSS, PHP, JavaScript, C/C++, Java, React Native, MARIE Assembly Language, and SQL.
-- Working on <strong>Pasan</strong> 🖥️.
-- Working on <strong>Hora</strong> 📱.
+- In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️ .
+- Working on <strong>Hora</strong>, an Ecommerce App📱.
 
 ### Tools I work upon : 🚧
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&langs_count=8&theme=dracula&color=B994E6&bg_color=2B2D3D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
