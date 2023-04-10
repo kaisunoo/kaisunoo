@@ -10,9 +10,8 @@
 
 -->
 <p align="center"> <img src="https://c.tenor.com/VpDBCcqCP0IAAAAC/dinosaur-pixel-art.gif" width="100" position="center"/> 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&color=86DC3D&background=2B2D3D00&width=435&lines=Kaisunoo;Learner+of+a+Trade;Information+Technology;Student;EXO-L)](https://git.io/typing-svg)
-
+-----
 Hi! I'm **Ky Españo**, a 2nd year **InfoTech** student studying at Polytechnic State University of Bicol.<br>
 
 ### How to reach me: 📫
@@ -28,6 +27,5 @@ Hi! I'm **Ky Españo**, a 2nd year **InfoTech** student studying at Polytechnic 
 ### Tools I work upon : 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&langs_count=8&theme=dracula&color=B994E6&bg_color=2B2D3D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
------
 ### Visits :
 ![Visitor Count](https://profile-counter.glitch.me/{er-roarr}/count.svg)
