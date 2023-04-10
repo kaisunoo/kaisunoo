@@ -13,7 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&center=true&color=86DC3D&background=2B2D3D00&width=435&lines=Kaisunoo;Learner+of+a+Trade;Information+Technology;Student;EXO-L)](https://git.io/typing-svg)
 -----
-Hi! I'm **Kyla Caryl Españo**, a 2nd year **InfoTech** student studying at Polytechnic State University of Bicol.<br>
+Hi! I'm **Kyla Caryl Españo**, a 2nd year **InfoTech** student studying at Camarines Sur Polytechnic Colleges.<br>
 
 ### How to reach me: 📫
 <a href="mailto: ky.espano@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/ky.espano@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
