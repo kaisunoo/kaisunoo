@@ -11,7 +11,7 @@
 -->
 <p align="center"> <img src="https://c.tenor.com/VpDBCcqCP0IAAAAC/dinosaur-pixel-art.gif" width="100" position="center"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&color=86DC3D&background=2B2D3D00&width=435&position=center &lines=Kaisunoo;Learner+of+a+Trade;Information+Technology;Student;EXO-L)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&color=86DC3D&background=2B2D3D00&width=435&lines=Kaisunoo;Learner+of+a+Trade;Information+Technology;Student;EXO-L)](https://git.io/typing-svg)
 
 Hi! I'm **Ky Españo**, a 2nd year **InfoTech** student studying at Polytechnic State University of Bicol.<br>
 
