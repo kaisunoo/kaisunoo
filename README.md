@@ -29,5 +29,5 @@ Hi! I'm **Kyla Caryl Españo**, a 2nd year **InfoTech** student studying at Cama
 ### Tools I work upon : 🚧
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&langs_count=8&theme=dracula&color=B994E6&bg_color=2B2D3D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Profile Visits : 🚪
+### Profile visits : 🚪
 ![Visitor Count](https://profile-counter.glitch.me/{er-roarr}/count.svg)
