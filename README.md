@@ -20,7 +20,7 @@ Hi! I'm **Kyla Caryl Españo**, a 2nd year **InfoTech** student studying at Cama
 <a href="https://www.linkedin.com/mwlite/in/kyla-caryl-espa%C3%B1o-289619238"> <img alt="LinkedIn" src="https://img.shields.io/badge/@Kyla Caryl Españo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/kaisuno_o?t=dijNMqA022bK5rqKDUDXXw&s=09"> <img alt="Twitter" src="https://img.shields.io/badge/@kaisuno_o-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-### Current Status: 💭
+### Status quo: 💭
 - Exploring <strong>GitHub</strong>...
 - I'm currently learning HTML, CSS, PHP, JavaScript, C/C++, Java, React Native, MARIE Assembly Language, and SQL.
 - In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️ .
@@ -29,5 +29,5 @@ Hi! I'm **Kyla Caryl Españo**, a 2nd year **InfoTech** student studying at Cama
 ### Tools I work upon : 🚧
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&langs_count=8&theme=dracula&color=B994E6&bg_color=2B2D3D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Visits : 🚪
+### Profile Visits : 🚪
 ![Visitor Count](https://profile-counter.glitch.me/{er-roarr}/count.svg)
