@@ -21,7 +21,7 @@ Hi! I'm **Kyla Caryl Españo**, a 2nd year **InfoTech** student studying at Cama
 <a href="https://www.linkedin.com/mwlite/in/kyla-caryl-espa%C3%B1o-289619238"> <img alt="LinkedIn" src="https://img.shields.io/badge/@Kyla Caryl Españo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/kaisuno_o?t=dijNMqA022bK5rqKDUDXXw&s=09"> <img alt="Twitter" src="https://img.shields.io/badge/@kaisuno_o-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-### Status quo: 💭
+### Status quo: 💭 <a href="https://app.daily.dev/Kaisunoo"><img src="https://api.daily.dev/devcards/9aca0077ea2a4ca38bb4370df944aec8.png?r=h80" width="400" alt="Kyla Caryl Españo's Dev Card"/></a>
 - Exploring <strong>GitHub</strong>...
 - I'm currently learning HTML, CSS, PHP, JavaScript, C/C++, Java, React Native, MARIE Assembly Language, and SQL.
 - In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️ .
