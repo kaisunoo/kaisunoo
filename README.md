@@ -11,8 +11,6 @@
 -->
 <p align="center">
 <a href="https://app.daily.dev/Kaisunoo"><img src="https://api.daily.dev/devcards/9aca0077ea2a4ca38bb4370df944aec8.png?r=h80" width="400" alt="Kyla Caryl Españo's Dev Card"/></a>
- <img src="https://c.tenor.com/VpDBCcqCP0IAAAAC/dinosaur-pixel-art.gif" width="100" position="center"/> 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&center=true&color=86DC3D&background=2B2D3D00&width=435&lines=Kaisunoo;Learner+of+a+Trade;Information+Technology;Student;EXO-L)](https://git.io/typing-svg)
 -----
 Hi! I'm **Kyla Caryl Españo**, a 2nd year **InfoTech** student studying at Camarines Sur Polytechnic Colleges.<br>
