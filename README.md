@@ -10,7 +10,7 @@
 
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&center=true&color=86DC3D&background=2B2D3D00&width=435&lines=Learner+of+a+Trade;Open+Source;Information+Technology;Student;EXO-L)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&center=true&color=86DC3D&background=2B2D3D00&width=435&lines=Learner+of+a+Trade;Open+Source+Explorer;Information+Technology;Student;EXO-L)](https://git.io/typing-svg)
 
 Hi! I'm **Kyla Caryl Españo**, a 2nd year **Information Technology** student studying at Camarines Sur Polytechnic Colleges.<br>
 
