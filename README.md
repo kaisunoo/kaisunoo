@@ -26,7 +26,7 @@ Hi! I'm **Kyla Caryl Españo**, a 2nd year **Information Technology** student at
 <a href="https://www.linkedin.com/mwlite/in/kyla-caryl-espa%C3%B1o-289619238"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/kaisuno_o?t=dijNMqA022bK5rqKDUDXXw&s=09"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-### Most used language : 🚧
+### Most used languages : 🚧
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&langs_count=4&theme=dracula&color=B994E6&bg_color=2B2D3D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Visits : 🚪
