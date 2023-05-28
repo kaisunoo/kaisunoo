@@ -15,7 +15,11 @@
 Hi! I'm **Kyla Caryl Españo**, a 2nd year **Information Technology** student at Camarines Sur Polytechnic Colleges.<br>
 
 ### Status quo: 💭 
-<left><a href="https://app.daily.dev/Kaisunoo"><img src="https://api.daily.dev/devcards/9aca0077ea2a4ca38bb4370df944aec8.png?r=8rh" width="200" alt="Kyla Caryl Españo's Dev Card"/></a>
+<div align="left">
+<a href="https://app.daily.dev/Kaisunoo">
+  <img width="200" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/>  
+</a>
+</div>
 - Exploring <strong>GitHub</strong>...
 - I'm currently learning PHP, JavaScript, Java, MARIE Assembly Language, and SQL.
 - In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
