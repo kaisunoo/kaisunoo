@@ -18,7 +18,7 @@ Hi! I'm **Kyla Caryl Españo**, a 2nd year **Information Technology** student at
 
 <div align="left">
 <a href="https://app.daily.dev/Kaisunoo">
-  <img width="200" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/>  
+  <img width="400" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/>  
 </a>
 </div>
 
