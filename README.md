@@ -15,11 +15,11 @@
 Hi! I'm **Kyla Caryl Españo**, a 2nd year **Information Technology** student at Camarines Sur Polytechnic Colleges.<br>
 
 ### Status quo: 💭 
-<a href="https://app.daily.dev/Kaisunoo"><img src="https://api.daily.dev/devcards/9aca0077ea2a4ca38bb4370df944aec8.png?r=8rh" width="200" alt="Kyla Caryl Españo's Dev Card"/></a>
+<left><a href="https://app.daily.dev/Kaisunoo"><img src="https://api.daily.dev/devcards/9aca0077ea2a4ca38bb4370df944aec8.png?r=8rh" width="200" alt="Kyla Caryl Españo's Dev Card"/></a>
 - Exploring <strong>GitHub</strong>...
 - I'm currently learning PHP, JavaScript, Java, MARIE Assembly Language, and SQL.
-- In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️.
-- Working on <strong>Hora</strong>, an Ecommerce App📱.
+- In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
+- Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).
 
 ### How to reach me: 📫
 <a href="mailto: ky.espano@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
