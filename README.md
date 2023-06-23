@@ -15,7 +15,7 @@
   
 </div>
 
-Hi! I'm **Kyla Caryl Españo**, a 2nd year **Information Technology** student at Camarines Sur Polytechnic Colleges.<br>
+Hi! I'm **Kyla Caryl Españo**, a 3rd year **Information Technology** student at Camarines Sur Polytechnic Colleges.<br>
 
 ### Status quo: 💭
 
