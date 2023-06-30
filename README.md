@@ -1,14 +1,12 @@
+<div align="center">
 # Hi, I'm Kyla Caryl Españo👋
 
 [![An image of @kaisunoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaisunoo)](https://holopin.io/@kaisunoo)
-
-<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=30&duration=7000&pause=1000&center=true&color=9500FF&width=435&lines=Filipino+Info+Tech+Student;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg)
-  
-</div>
 
 A Filipino Information Technology student at Camarines Sur Polytechnic Colleges.
+</div>
 
 ### Status quo:💭
 
