@@ -15,10 +15,10 @@
   
 </div>
 
-### Hi! <img src="./assets/gifs/handwave.gif" width="19" />  
+### Hi!👋  
 I'm **Kyla Caryl Españo**, an **Information Technology** student at Camarines Sur Polytechnic Colleges.<br>
 
-### Status quo: 💭
+### Status quo:💭
 
 <div align="left">
 <a href="https://app.daily.dev/Kaisunoo">
@@ -31,8 +31,8 @@ I'm **Kyla Caryl Españo**, an **Information Technology** student at Camarines S
 - In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
 - Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).
 
-### Most used languages : 🚧
+### Most used languages :🚧
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&langs_count=4&theme=dracula&color=B994E6&bg_color=2B2D3D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Visits : 🚪
+### Visits :🚪
 ![Visitor Count](https://profile-counter.glitch.me/{er-roarr}/count.svg)
