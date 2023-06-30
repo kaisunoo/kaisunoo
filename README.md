@@ -11,7 +11,7 @@
 -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&center=true&color=9500FF&background=00FFFFFF&width=435&lines=Student;Information+Technology;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=24&duration=7000&pause=1000&center=true&color=9500FF&width=435&lines=Student;Information+Technology;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg)
   
 </div>
 
