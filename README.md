@@ -1,22 +1,14 @@
-<!--
-**Kaisunoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kyla Caryl Españo👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+[![An image of @kaisunoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaisunoo)](https://holopin.io/@kaisunoo)
 
--->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=30&duration=7000&pause=1000&center=true&color=9500FF&width=435&lines=Student;Information+Technology;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=30&duration=7000&pause=1000&center=true&color=9500FF&width=435&lines=Filipino+Info+Tech+Student;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg)
   
 </div>
 
-### Hi!👋  
-I'm **Kyla Caryl Españo**, an **Information Technology** student at Camarines Sur Polytechnic Colleges.<br>
+A Filipino Information Technology student at Camarines Sur Polytechnic Colleges.
 
 ### Status quo:💭
 
