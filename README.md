@@ -15,7 +15,7 @@
   
 </div>
 
-Hi! I'm **Kyla Caryl Españo**, an **Information Technology** student at Camarines Sur Polytechnic Colleges.<br>
+Hi!<img src="./assets/gifs/handwave.gif" width="19" /> I'm **Kyla Caryl Españo**, an **Information Technology** student at Camarines Sur Polytechnic Colleges.<br>
 
 ### Status quo: 💭
 
