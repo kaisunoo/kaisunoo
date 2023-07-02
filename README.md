@@ -1,5 +1,4 @@
-<iframe src="https://giphy.com/embed/10Mgxh2ctqqz9m" width="480" height="480"> frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/owl-10Mgxh2ctqqz9m">via GIPHY</a></p>
-<div align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   
 # Hi! I'm Kyla Caryl Españo
 
