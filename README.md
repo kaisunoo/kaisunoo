@@ -1,20 +1,12 @@
-
-
-<div class="tenor-gif-embed" data-postid="18530426" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hype-owl-cladun-owl-pixel-2d-gif-18530426">Hype Owl Cladun Sticker</a>from <a href="https://tenor.com/search/hype+owl-stickers">Hype Owl Stickers</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> 
-
-
+<div align="center">
 <strong>Hi! I'm Kyla Caryl Españo</strong>
 
-<div align="center">
-  
 [![An image of @kaisunoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaisunoo)](https://holopin.io/@kaisunoo)
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=30&duration=7000&pause=1000&center=true&color=00A800&width=435&lines=Filipino;Info+Tech+Student;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg)
 
 A Filipino Information Technology student at Camarines Sur Polytechnic Colleges.
 </div>
-
-<div class="tenor-gif-embed" data-postid="18530426" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/hype-owl-cladun-owl-pixel-2d-gif-18530426">
 
 ### Status quo:💭
 
