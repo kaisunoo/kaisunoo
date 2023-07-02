@@ -1,5 +1,6 @@
 <div align="center">
-<strong>Hi! I'm Kyla Caryl Españo</strong>
+  
+# Hi! I'm Kyla Caryl Españo
 
 [![An image of @kaisunoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaisunoo)](https://holopin.io/@kaisunoo)
   
