@@ -4,7 +4,7 @@
 
 [![An image of @kaisunoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaisunoo)](https://holopin.io/@kaisunoo)
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=30&duration=7000&pause=1000&center=true&color=008C00&width=435&lines=Filipino;Info+Tech+Student;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=30&duration=7000&pause=1000&center=true&color=00A800&width=435&lines=Filipino;Info+Tech+Student;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg)
 
 A Filipino Information Technology student at Camarines Sur Polytechnic Colleges.
 </div>
@@ -18,7 +18,7 @@ A Filipino Information Technology student at Camarines Sur Polytechnic Colleges.
 </div>
 
 - Exploring <strong>GitHub</strong>...
-- I'm currently re-learning JavaScript, and SQL.
+- I'm currently learning Python, JavaScript, and SQL.
 - In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
 - Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).
 
