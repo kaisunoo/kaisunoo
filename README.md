@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+prime&size=20&duration=7000&pause=1000&center=true&color=%2336BCF7&width=435&lines=Filipino;Info+Tech+Student;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg)
 
+[![Snake animation](https://github.com/kaisunoo/kaisunoo/blob/output/github-contribution-grid-snake.svg)]
+
 </div>
 
 ### Status quo: 💭
