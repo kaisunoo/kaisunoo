@@ -19,7 +19,7 @@
 
 ## Spotify Playing: 🎧
 
-[![Spotify](https://readme-spotify-8eum3vngy-kaisunoo.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/31vpoyorixyvea63cc65e7yrvtpm)
+[![Spotify](https://readme-spotify-8eum3vngy-kaisunoo.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/user/31vpoyorixyvea63cc65e7yrvtpm)
 #
 <div align="center">  
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=kaisunoo&ring_color=5acbe9">
