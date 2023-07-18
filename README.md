@@ -17,7 +17,7 @@
 - In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
 - Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).
 
-## Spotify Playing: 🎧
+## Spotify Currently Playing: 🎧
 
 [![Spotify](https://readme-spotify-8eum3vngy-kaisunoo.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/user/31vpoyorixyvea63cc65e7yrvtpm)
 #
