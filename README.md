@@ -17,6 +17,8 @@
 - In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
 - Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).
 
+[![Spotify](https://readme-spotify-8eum3vngy-kaisunoo.vercel.app/api/spotify)](https://open.spotify.com/user/31vpoyorixyvea63cc65e7yrvtpm)
+
 <div align="center">  
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=kaisunoo&ring_color=5acbe9">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&layout=compact&hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
