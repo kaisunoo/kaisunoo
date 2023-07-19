@@ -21,7 +21,7 @@
 <!--Spotify readme from: https://github.com/novatorem/novatorem-->
 ## Holopin Badges: 
 [![An image of @kaisunoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaisunoo)](https://holopin.io/@kaisunoo)    
-#
+## GitHub Status:
 <div align="center">  
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=kaisunoo&ring_color=5acbe9">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&layout=compact&hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
