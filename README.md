@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=120&section=header"/>
 <div align="center">
   
   ![Snake animation](https://github.com/kaisunoo/kaisunoo/blob/output/github-contribution-grid-snake-dark.svg)
@@ -28,4 +28,4 @@
   <img src="https://streak-stats.demolab.com?user=kaisunoo&hide_border=true&background=EBEBEB00&stroke=5acbe9&ring=5acbe9&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=5acbe9">
   <a href="https://github.com/kaisunoo/kaisunoo"><img alt="Kaisunoo's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kaisunoo&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=120&section=footer"/>
