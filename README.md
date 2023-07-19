@@ -8,14 +8,14 @@
 </div>
 
 <a href="https://app.daily.dev/Kaisunoo">
-  <img width="200" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/> 
+  <img width="250" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/> 
 </a> 
 
-## Status quo: 💭
-- Exploring GitHub, Git...
-- I'm currently learning Python.
-- In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
-- Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).
+## Status Quo: 💭
+- Exploring Git, GitHub, GitHub Desktop...
+- Currently learning Python.
+<!-- In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
+- Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).-->
 
 ## Spotify Currently Playing: 🎧
 
