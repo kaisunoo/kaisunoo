@@ -10,8 +10,9 @@
 </a> 
 
 ## Status Quo: 💭
-- Exploring Git, GitHub, GitHub Desktop...
+- Exploring Git, GitHub, and GitHub Desktop...
 - Currently learning Python and Ruby.
+- Working on tils.
 <!-- In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
 - Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).-->
 ## Spotify: 🎧
