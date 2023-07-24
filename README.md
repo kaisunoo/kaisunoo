@@ -12,7 +12,7 @@
 ## Status Quo: 💭
 - Exploring Git, GitHub, and GitHub Desktop...
 - Currently learning Python and Ruby.
-- Working on tils.
+- Working on til(https://kaisunoo.github.io/til).
 <!-- In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
 - Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).-->
 ## Spotify: 🎧
