@@ -18,9 +18,9 @@
 
 [![Spotify](https://readme-spotify-8eum3vngy-kaisunoo.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/user/31vpoyorixyvea63cc65e7yrvtpm)
 <!--Spotify readme from: https://github.com/novatorem/novatorem-->
-## Holopin Badges: 
+## Holopin Badges: ✅
 [![An image of @kaisunoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaisunoo)](https://holopin.io/@kaisunoo)    
-## GitHub Status:📊
+## GitHub Status: 📊
 <div align="center">  
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=kaisunoo&ring_color=5acbe9">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&layout=compact&hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
