@@ -24,7 +24,7 @@
 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=kaisunoo&ring_color=5acbe9">
   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&layout=compact&hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisunoo&layout=compact&hide_border=true&title_color=5acbe9&icon_color=5acbe9&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">-->
 
  <img src="https://streak-stats.demolab.com?user=kaisunoo&hide_border=true&background=EBEBEB00&stroke=5acbe9&ring=5acbe9&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=5acbe9">
 
