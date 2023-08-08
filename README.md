@@ -2,7 +2,7 @@
 
   [![An image of @kaisunoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaisunoo)](https://holopin.io/@kaisunoo)   
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=5acbe9&center=true&width=1000&lines=Hello+World!;Info+Tech+Student;Filipino;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=5acbe9&center=true&height=80&width=1000&lines=Hello+World!;Info+Tech+Student;Filipino;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg) 
   <!--Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg-->
 </div>
 <a href="https://app.daily.dev/Kaisunoo">
