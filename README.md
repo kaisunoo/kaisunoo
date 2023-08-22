@@ -9,9 +9,10 @@
   <img width="250" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/> 
 </a> 
 
-## Status Quo: 💭
+## Status Quo: 💭 
 - Exploring Git, GitHub, and GitHub Desktop.
 - Currently learning Python.
+- Beginner level at HTML, CSS, JavaScript, PHP, C, C++, Java, React Native, and SQL.
 <!-- -  In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
 - Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).-->
 ## Spotify: 🎧
