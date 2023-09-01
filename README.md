@@ -11,9 +11,9 @@
 
 ## Status Quo: 💭 
 - Exploring Git, GitHub, and GitHub Desktop.
-- Learning Python.
-- Beginner level at HTML, CSS, JavaScript, PHP, C, C++, Java, React Native, and SQL.
-<!-- -  In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
+- Beginner at HTML, CSS, JavaScript, PHP, C, C++, Java, React Native, and SQL.
+<!--- Learning Python. 
+-  In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
 - Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).-->
 ## Spotify: 🎧
 
