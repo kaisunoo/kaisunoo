@@ -12,8 +12,9 @@
 ## Status Quo: 💭 
 - Exploring Git, GitHub, and GitHub Desktop.
 - Beginner at HTML, CSS, JavaScript, PHP, C, C++, Java, React Native, and SQL.
-- Working on [![Netlify Status](https://api.netlify.com/api/v1/badges/041a24ed-af35-4153-9ead-cf40b4367ff9/deploy-status)](https://app.netlify.com/sites/spi04-e-portfolio/deploys)
+
 <!--- Learning Python. 
+- Working on [![Netlify Status](https://api.netlify.com/api/v1/badges/041a24ed-af35-4153-9ead-cf40b4367ff9/deploy-status)](https://app.netlify.com/sites/spi04-e-portfolio/deploys)
 -  In a collaborative work on <strong>Pasan</strong>, an Ecommerce Website🖥️(for educational purpose only).
 - Working on <strong>Hora</strong>, an Ecommerce App📱(for educational purpose only).-->
 ## Spotify: 🎧
