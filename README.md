@@ -6,7 +6,7 @@
   <!--Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg-->
 </div>
 <a href="https://app.daily.dev/Kaisunoo">
-  <img width="250" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/> 
+  <img width="200" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/> 
 </a> 
 
 ## Status Quo: 💭 
@@ -34,6 +34,6 @@
 
   <a href="https://github.com/kaisunoo/kaisunoo"><img alt="Kaisunoo's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kaisunoo&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 
-  <!--![Snake animation](https://github.com/kaisunoo/kaisunoo/blob/output/github-contribution-grid-snake-dark.svg)-->
-  <!--Snake animation from: https://github.com/Platane/snk-->
+<!--![Snake animation](https://raw.github.com/kaisunoo/kaisunoo/output/github-contribution-grid-snake-dark.svg)
+  Snake animation from: https://github.com/Platane/snk-->
 </div>
