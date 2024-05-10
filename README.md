@@ -10,6 +10,7 @@
 </a> 
 
 ## Status Quo: 💭 
+- In a collaborative work on <strong>SensEtry</strong>.
 - Exploring Git, GitHub, and GitHub Desktop.
 - Beginner at HTML, CSS, JavaScript, PHP, C, C++, Java, React Native, and SQL.
 
@@ -33,6 +34,6 @@
 
   <a href="https://github.com/kaisunoo/kaisunoo"><img alt="Kaisunoo's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kaisunoo&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 
-  ![Snake animation](https://github.com/kaisunoo/kaisunoo/blob/output/github-contribution-grid-snake-dark.svg)
+  <!--![Snake animation](https://github.com/kaisunoo/kaisunoo/blob/output/github-contribution-grid-snake-dark.svg)-->
   <!--Snake animation from: https://github.com/Platane/snk-->
 </div>
