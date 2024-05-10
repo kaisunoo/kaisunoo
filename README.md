@@ -6,7 +6,7 @@
   <!--Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg-->
 </div>
 <a href="https://app.daily.dev/Kaisunoo">
-  <img width="200" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/> 
+  <img width="250" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/> 
 </a> 
 
 ## Status Quo: 💭 
