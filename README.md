@@ -10,6 +10,7 @@
 </a> 
 
 ## Status Quo: 💭 
+- Working at [Team-Marimo-SensEtry-Capstone](https://github.com/Team-Marimo-SensEtry-Capstone)
 - In a collaborative work on <strong>SensEtry</strong>.
 - Exploring Git, GitHub, and GitHub Desktop.
 - Beginner at HTML, CSS, JavaScript, PHP, C, C++, Java, React Native, and SQL.
