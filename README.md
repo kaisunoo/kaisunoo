@@ -4,14 +4,14 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=5acbe9&center=true&height=80&width=1000&lines=Hello+World!;Info+Tech+Student;Filipino;Open+Source+Explorer;EXO-L)](https://git.io/typing-svg) 
   <!--Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg-->
-</div>
+<!-- </div>
 <a href="https://app.daily.dev/Kaisunoo">
   <img width="250" align="right" src="https://github.com/kaisunoo/kaisunoo/blob/main/devcard.svg" alt="kaisunoo Dev Card"/> 
-</a> 
+</a> -->
 
 ## Status Quo: 💭 
-- Working at [Team-Marimo-SensEtry-Capstone](https://github.com/Team-Marimo-SensEtry-Capstone)
-- In a collaborative work on <strong>SensEtry</strong>.
+- Capstone Team [Team-Marimo-SensEtry-Capstone](https://github.com/Team-Marimo-SensEtry-Capstone)
+- Worked collaboratively on <strong>SensEtry</strong> project.
 - Exploring Git, GitHub, and GitHub Desktop.
 - Beginner at HTML, CSS, JavaScript, PHP, C, C++, Java, React Native, and SQL.
 
